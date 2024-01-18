@@ -1,2 +1,0 @@
-# anugrah
-index.html
